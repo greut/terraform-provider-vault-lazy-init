@@ -25,7 +25,7 @@ $ terraform apply
 
 ## Trying the fix
 
-Modify your `.terraformrc` to use that branch and try it again.
+Modify your `.terraformrc` to use [that branch](https://github.com/greut/terraform-provider-vault/tree/feat/lazy-init-2) and try it again.
 
 ```
 $ terraform apply
